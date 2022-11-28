@@ -1,0 +1,66 @@
+﻿ul li {
+    list-style-type: none;
+    text-align: center;
+    display: inline;
+    font-size: 200%
+}
+
+li a{
+    text-decoration:none;
+    
+}
+
+body{
+    background-color:lightgrey;
+}
+h1{
+    text-align:center;
+    color:darkolivegreen;
+    font-size:300%
+}
+#Purpose{
+    text-align: left;
+    background-color: darkolivegreen;
+    font-size:200%;
+    text-decoration-style:wavy;
+   
+
+}
+#HomeDIV {
+    background-color: whitesmoke;
+    width: 100%;
+    height: 60px;
+   
+}
+#AboutDIV {
+    background-color: whitesmoke;
+    width: 100%;
+    height: 60px;
+}
+
+#Involvement {
+    color: darkolivegreen;
+    font-size: 150%;
+    
+    font-weight: bold;
+   
+}
+
+#Awards {
+    color: darkolivegreen;
+    font-size: 150%;
+    font-weight:bold;
+    
+}
+span {
+    color: darkolivegreen;
+    font-size: 150%;
+    font-weight: bold;
+}
+
+#Project {
+    color: darkolivegreen;
+    font-size: 150%;
+    font-weight: bold;
+    text-decoration-line:underline;
+}
